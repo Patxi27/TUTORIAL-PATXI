@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Los videos" name="My REPO" version="1.0" provider-name="ME">
+	<extension point="xbmc.addon.repository" name="My REPO">
+		<info compressed="false">https://raw.githubusercontent.com/Patxi27/TUTORIAL-PATXI/master/https://raw.githubusercontent.com/Patxi27/TUTORIAL-PATXI/master/addons.xml.md5</info>
+		<checksum>addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/Patxi27/TUTORIAL-PATXI/tree/master/zips</datadir>
+		
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Summary</summary>
+		<description>Description</description>
+		<platform>all</platform>
+	</extension>
+</addon>
